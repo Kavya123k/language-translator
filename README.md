@@ -37,3 +37,11 @@ english-to-kannada-translator/
 ├── static/
 ├── README.md
 └── requirements.txt / package.json
+
+## 🖼️ Output Example
+
+Here is a sample translation from English to Kannada:
+
+![Translation Output](screenshots/C:\Users\kavya\Pictures\Screenshots\Screenshot 2025-05-26 221820.png)
+
+
