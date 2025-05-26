@@ -45,4 +45,4 @@ Here is a sample translation from English to Kannada:
 ![Translation Output](screenshots/C:\Users\kavya\Pictures\Screenshots\Screenshot 2025-05-26 221820.png)
 
 To watch project output
-..-[click here](https://github.com/Kavya123k/language-translator/upload/main)
+..-[click here](https://github.com/Kavya123k/language-translator)
