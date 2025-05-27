@@ -19,7 +19,7 @@ A simple and efficient tool that translates text from English to Kannada using m
 
 ### Clone the repository
 
-git clone https://github.com/your-username/english-to-kannada-translator.git
+git clone https://github.com/Kavya123k/english-to-kannada-translator.git
 cd english-to-kannada-translator
 Install dependencies
 
@@ -39,10 +39,6 @@ english-to-kannada-translator/
 └── requirements.txt / package.json
 
 ## 🖼️ Output Example
-
-Here is a sample translation from English to Kannada:
-
-
-
 To watch project output
 ..-[click here](https://github.com/Kavya123k/language-translator/blob/main/Screenshot%202025-05-26%20221820.png)
+
